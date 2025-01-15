@@ -45,7 +45,7 @@ This is a simple Tic Tac Toe application for Android using Kotlin. It features g
 ## Getting Started
 
 To run this app on your local machine or Android device, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/............
+1. Clone this repository to your local machine using `git clone https://github.com/mmaitty01/XOGame-AndroidApp.git`
 2. Open the project in Android Studio or your preferred Android development environment.
 3. Build and run the application on an Android emulator or a physical Android device.
 
