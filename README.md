@@ -52,7 +52,11 @@ To run this app on your local machine or Android device, follow these steps:
 
 
 ## Screenshots
-<p align="center"><img width="250" src = "https://github.com/user-attachments/assets/a230e943-4fc9-4cde-a789-90d6f10f3f59">   <img width="250" src = "https://github.com/user-attachments/assets/fc0c35d5-82e8-4ad9-9254-92c5844fbd0a">   <img width="250" src = "https://github.com/user-attachments/assets/064a8d6d-cd6e-4c94-a347-7322f7669d24"> </p>
+<p align="center"><img width="250" src = "https://github.com/user-attachments/assets/06cb236f-494c-45bd-8964-46af37845cc5">   <img width="250" src = "https://github.com/user-attachments/assets/a1d358f0-aba0-463c-a4ba-2d83aa19d087">   <img width="250" src = "https://github.com/user-attachments/assets/a311fcf3-7e8f-4544-9874-a284ba3b8610"> </p>
+
+
+
+
 
 ## Future Improvements
 
