@@ -1,5 +1,6 @@
 # Tic Tac Toe Game
-<p align="center"><img width="350" src = "https://github.com/user-attachments/assets/2c73ec97-8dbe-41b9-ae38-7dcede090cc8"></p>
+<p align="center"><img width="350" src = "https://github.com/user-attachments/assets/9305bcf3-ec07-4aaf-b3cd-fcf593019900"></p>
+
 <p align="center" >
   <a href="#Overview">Overview</a> •
   <a href="#Features">Features</a> •
